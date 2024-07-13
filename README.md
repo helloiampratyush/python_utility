@@ -26,10 +26,10 @@ python_utility tool
      * Balances quality and file size.
      * Supports both lossy and lossless compression.
 
-  5  **AVIF (AV1 Image File Format)**
+  5. **AVIF (AV1 Image File Format)**
      * Provides high compression efficiency.
      * Supports HDR (High Dynamic Range).
 
-  6 **SVG (Scalable Vector Graphics)**
+  6. **SVG (Scalable Vector Graphics)**
      * Best for vector graphics and illustrations.
      * Scalable without losing quality.
