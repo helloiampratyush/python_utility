@@ -33,3 +33,32 @@ python_utility tool
   6. **SVG (Scalable Vector Graphics)**
      * Best for vector graphics and illustrations.
      * Scalable without losing quality.
+    
+# Supported Image Formats and Browser Support
+
+| Format | Description | Chrome | Firefox | Safari | Edge | Opera |
+|--------|-------------|--------|---------|--------|------|-------|
+| **JPEG** | Best for photographs and realistic images | Yes | Yes | Yes | Yes | Yes |
+| **PNG**  | Ideal for images needing transparency | Yes | Yes | Yes | Yes | Yes |
+| **GIF**  | Supports simple animations | Yes | Yes | Yes | Yes | Yes |
+| **WebP** | Balances quality and file size | Yes | Yes | Yes | Yes | Yes |
+| **AVIF** | Provides high compression efficiency | Yes | Yes | Yes | Yes | Yes |
+| **SVG**  | Best for vector graphics and illustrations | Yes | Yes | Yes | Yes | Yes |
+
+
+# Image Dimensions and Size Limits
+
+| Format | Minimum Dimensions | Maximum Dimensions | Maximum File Size |
+|--------|--------------------|--------------------|-------------------|
+| **JPEG** | 1x1 px | 65,535x65,535 px | 2 GB |
+| **PNG**  | 1x1 px | 2,147,483,647x2,147,483,647 px | 2 GB |
+| **GIF**  | 1x1 px | 65,535x65,535 px | 2 GB |
+| **WebP** | 1x1 px | 16,383x16,383 px | 2 GB |
+| **AVIF** | 1x1 px | 8,192x4,320 px | 2 GB |
+| **SVG**  | Vector-based, scalable | Vector-based, scalable | Dependent on complexity |
+
+
+
+
+For more details, visit the [MDN Web Docs on Image Types](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types).
+
