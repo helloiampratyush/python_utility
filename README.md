@@ -54,7 +54,8 @@ python_utility tool
 | **PNG**  | 1x1 px | 2,147,483,647x2,147,483,647 px | 2 GB |
 | **GIF**  | 1x1 px | 65,535x65,535 px | 2 GB |
 | **WebP** | 1x1 px | 16,383x16,383 px | 2 GB |
-| **AVIF** | 1x1 px | 8,192x4,320 px | 2 GB |
+| **BMP**  | 1x1 px | 65,535x65,535 px or 2,147,483,647x2,147,483,647 px | 2 GB is imposed but it can be > 1TB |
+| **AVIF** | 1x1 px | 2,147,483,647x2,147,483,647 px | 2GB is imposed but it can be > 1TB |
 | **SVG**  | Vector-based, scalable | Vector-based, scalable | Dependent on complexity |
 
 
